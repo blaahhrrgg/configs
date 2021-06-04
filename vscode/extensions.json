@@ -1,0 +1,27 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "azemoh.one-monokai",
+        "ban.spellright",
+        "DavidAnson.vscode-markdownlint",
+        "dracula-theme.theme-dracula",
+        "eamodio.gitlens",
+        "GrapeCity.gc-excelviewer",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-docker",
+        "ms-dotnettools.csharp",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.remote-wsl",
+        "njpwerner.autodocstring",
+        "octref.vetur",
+        "PKief.material-icon-theme",
+        "yzhang.markdown-all-in-one"
+    ]
+  }
+
+
+
+
