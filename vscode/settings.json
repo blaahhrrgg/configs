@@ -4,6 +4,7 @@
         80
     ],
     "editor.fontSize": 13,
+    "editor.fontFamily": "'Monaspace Neon', monospace",
     "editor.cursorStyle": "line-thin",
     // Themes
     "workbench.colorTheme": "Catppuccin Mocha",
