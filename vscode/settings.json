@@ -3,34 +3,14 @@
     "editor.rulers": [
         80
     ],
-    "editor.fontSize": 14,
+    "editor.fontSize": 13,
     "editor.cursorStyle": "line-thin",
     // Themes
-    "workbench.colorTheme": "One Monokai",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.iconTheme": "material-icon-theme",
     // Git
     "git.autofetch": true,
     "diffEditor.ignoreTrimWhitespace": false,
     //Terminal
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "terminal.integrated.inheritEnv": false,
-    // Python
-    "autoDocstring.docstringFormat": "numpy",
-    "autoDocstring.guessTypes": true,
-    "autoDocstring.generateDocstringOnEnter": true,
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.formatting.provider": "black",
-   
-    "[python]": { 
-    },
-    // Jupyter
-    "jupyter.sendSelectionToInteractiveWindow": false,
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ]
 }
