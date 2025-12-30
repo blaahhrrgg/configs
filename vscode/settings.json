@@ -13,5 +13,5 @@
     "git.autofetch": true,
     "diffEditor.ignoreTrimWhitespace": false,
     //Terminal
-    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.inheritEnv": false
 }
